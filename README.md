@@ -1,7 +1,9 @@
 # Recipes Flutter App
 
-<img src= "assets/images/favorites.gif">
-<img src= "assets/images/filters.gif">
+<div>
+    <img src= "assets/images/favorites.gif">
+    <img src= "assets/images/filters.gif">
+</div>
 
 ---
 
